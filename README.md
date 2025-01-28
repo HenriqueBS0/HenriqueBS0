@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Borges dos Santos
+# 🧑‍💻️ Henrique Borges dos Santos
 
 **`Desenvolvedora FullStack`**
 
