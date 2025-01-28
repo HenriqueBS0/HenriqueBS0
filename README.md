@@ -171,8 +171,9 @@ Olá, me chamo Henrique Borges dos Santos, tenho 21 anos e moro em Rio do Sul, S
 />
 
 <br/>
+<br/>
 
-### 🚀 Projetos
+### 🚀 Principais Projetos
 
 | **Agilmine**                                                                                          | **Router**                                                                                         | **TestCraft**                                                                                          |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -188,9 +189,8 @@ Olá, me chamo Henrique Borges dos Santos, tenho 21 anos e moro em Rio do Sul, S
 | ![Java](https://img.shields.io/badge/Java-blue) ![C++](https://img.shields.io/badge/C%2B%2B-yellow) ![Multithreading](https://img.shields.io/badge/Multithreading-red) | ![Java](https://img.shields.io/badge/Java-blue) ![Padr%C3%B5es%20de%20Projeto](https://img.shields.io/badge/Padr%C3%B5es%20de%20Projeto-brightgreen) ![POO](https://img.shields.io/badge/POO-orange) |
 | 📂 [Repositório](https://github.com/HenriqueBS0/busca-grafo-multithread) <br> 📝 [Artigo](https://medium.com/@henrique.10agr/multithreading-busca-em-grafos-7df3103fe723) | 📂 [Repositório](https://github.com/HenriqueBS0/biblioteca-criacao-banco-dados) <br> 📝 [Artigo](https://medium.com/@henrique.10agr/biblioteca-java-para-a-cria%C3%A7%C3%A3o-de-banco-de-dados-bd5b23f4e129) |
 
-
-
-
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
